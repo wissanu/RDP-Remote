@@ -1,0 +1,12 @@
+C:\Users\ASUS\Desktop\RDP-REMOTE\RDP\RDP\bin\Debug\RDP.exe
+C:\Users\ASUS\Desktop\RDP-REMOTE\RDP\RDP\bin\Debug\RDP.pdb
+C:\Users\ASUS\Desktop\RDP-REMOTE\RDP\RDP\bin\Debug\Interop.MSTSCLib.dll
+C:\Users\ASUS\Desktop\RDP-REMOTE\RDP\RDP\bin\Debug\AxInterop.MSTSCLib.dll
+C:\Users\ASUS\Desktop\RDP-REMOTE\RDP\RDP\obj\x86\Debug\Interop.MSTSCLib.dll
+C:\Users\ASUS\Desktop\RDP-REMOTE\RDP\RDP\obj\x86\Debug\AxInterop.MSTSCLib.dll
+C:\Users\ASUS\Desktop\RDP-REMOTE\RDP\RDP\obj\x86\Debug\RDP.csproj.ResolveComReference.cache
+C:\Users\ASUS\Desktop\RDP-REMOTE\RDP\RDP\obj\x86\Debug\RDP.Form1.resources
+C:\Users\ASUS\Desktop\RDP-REMOTE\RDP\RDP\obj\x86\Debug\RDP.Properties.Resources.resources
+C:\Users\ASUS\Desktop\RDP-REMOTE\RDP\RDP\obj\x86\Debug\RDP.csproj.GenerateResource.Cache
+C:\Users\ASUS\Desktop\RDP-REMOTE\RDP\RDP\obj\x86\Debug\RDP.exe
+C:\Users\ASUS\Desktop\RDP-REMOTE\RDP\RDP\obj\x86\Debug\RDP.pdb
